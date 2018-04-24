@@ -7,3 +7,9 @@ db.sqlite3
 .DS_Store
 
 #mart3ncja, mediumrare
+
+#git add .
+#git status
+#git commit -m "db changes"
+#git push -u origin master
+#git pull
